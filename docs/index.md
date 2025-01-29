@@ -13,10 +13,10 @@ hero:
       text: 信息源
       link: /guide/
   image:
-    src: /rspress-icon.png
+    src: https://i.imgs.ovh/2025/01/29/ACFc.webp
     alt: Logo
-features:
-  - title: Blazing fast build speed
-    details: The core compilation module is based on the Rust front-end toolchain, providing a more ultimate development experience.
-    icon: 🏃🏻‍♀️
+# features:
+#   - title: Blazing fast build speed
+#     details: The core compilation module is based on the Rust front-end toolchain, providing a more ultimate development experience.
+#     icon: 🏃🏻‍♀️
 ---
