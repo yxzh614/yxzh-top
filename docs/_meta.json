@@ -1,0 +1,27 @@
+[
+  {
+    "text": "列表",
+    "link": "/list/",
+    "activeMatch": "/list/"
+  },
+  {
+    "text": "信息源",
+    "link": "/guide/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "工具",
+    "link": "/tool/",
+    "activeMatch": "/tool/"
+  },
+  {
+    "text": "其他",
+    "link": "/other/",
+    "activeMatch": "/other/"
+  },
+  {
+    "text": "关于",
+    "link": "/about/",
+    "activeMatch": "/about/"
+  }
+]
